@@ -1,0 +1,11 @@
+p {
+  color: yellow;
+  width: 1270px;
+  
+  font-size: 80px;
+  font-family: 'Freckle Face', cursive;
+  text-align: left;
+}
+html {
+  background-color: #000000;
+}
