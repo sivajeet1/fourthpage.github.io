@@ -1,11 +1,11 @@
 p {
-  allign: centre;
+ 
   color: yellow;
   width: 1270px;
   
   font-size: 50px;
   font-family: 'Freckle Face', cursive;
-  text-align: left;
+  text-align: centre;
 }
 html {
   background-color: #000000;
